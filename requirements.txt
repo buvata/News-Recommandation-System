@@ -1,0 +1,11 @@
+torch
+mysql-connector
+mysql-connector-python
+scipy
+runenv
+aerospike
+gensim
+sklearn
+bs4
+markdown
+
